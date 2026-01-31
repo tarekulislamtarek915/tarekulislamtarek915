@@ -42,7 +42,7 @@ Tailwind CSS
 
 Git & GitHub
 
-Skills:  HTML5 / CSS3/ JS (ES6+)/ REACT/NEXT JS/ Git & Github
+Skills:  HTML5 / CSS3/ JS (ES6+)/ REACT/NEXT JS/Tailwind CSS/ Git & Github
 
 - 🔭 I’m currently working on this page. 
 
